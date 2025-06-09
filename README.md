@@ -3,3 +3,10 @@
 Task 1 Description 
 
 ![image alt](https://github.com/Ranhita/My-task1/blob/main/task1.PNG?raw=true)
+
+In this task, I created a bar chart using World Bank population data to visualize the distribution of continuous or categorical variables. I used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize the data. This helped me strengthen my skills in data visualization, data handling, and chart interpretation.
+
+TOOLS USED
+
+*Jupyter Notebook*
+
