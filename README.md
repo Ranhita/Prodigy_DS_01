@@ -10,11 +10,11 @@ In this task, I created a bar chart using World Bank population data to visualiz
 This dataset is from: https://github.com/Ranhita/My-task1/blob/main/worldpopulationdata%20(1).csv
 # TOOLS USED
 
-*Jupyter Notebook*
-*Microsoft Excel*
-*Numpy*
-*Pandas*
-*Matplotlib and seaborn for Data Visualization*
+1.Jupyter Notebook
+2.Microsoft Excel
+3.Numpy
+4.Pandas
+5.Matplotlib and seaborn for Data Visualization
 
 # Exploratoy Data Analysis(EDA)
 
